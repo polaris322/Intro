@@ -11,11 +11,12 @@ These are my experties I have;
 - Python -> Django, Flask
 
 My recent works are as following;
+- https://www.myviralad.com
 - https://www.iownz.com
 - https://www.ifnotthen.com
 - https://www.ivynemesis.com
 - https://www.bridepay.com
 
-I love to get opporturnity to work for you on this platform.
+Iøto get opporturnity to work for you on this platform.
 Thanks in advance!
 Mousul Tom
