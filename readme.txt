@@ -1,4 +1,6 @@
-I am an experienced and honest software architect with over 7 years of experience in developing Web & mobile applications. I have extensive knowledge and expertise in majority of web languages and frameworks and thirsty to learn new technology. Even if I am relatevly new this platform, I have wonderful career as a software architect in CMMI-3 software company. I'd like to create new career as a freelancer to get more global population. My dream on this platform is just to find clients to have a long-term partnership with my skills and personality. I feel pretty happy when my clients get impressed with my work and recommend it to me.
+I am an experienced and honest software architect with over 5 years of experience in developing small or medium size business web applications.
+I have extensive knowledge and expertise in majority of web languages and frameworks and thirsty to learn new technology.
+I feel pretty happy when my clients get impressed my work and recommend me.
 
 These are my experties I have;
 ⭐ Scrum/XP for Agile development, SaaS and DevOps
@@ -24,7 +26,9 @@ My recent works are as following;
 - https://www.ifnotthen.com
 - https://www.ivynemesis.com
 - https://www.bridepay.com
+- https://koyap.com
+- https://portal.yoko.us
 
 I'd like to get opporturnity to work for you on this platform.
 Thanks in advance!
-Mousul Tom
+Mousul Thomas
