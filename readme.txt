@@ -1,6 +1,7 @@
-I am an experienced and honest software architect with over 5 years of experience in developing small or medium size business web applications.
-I have extensive knowledge and expertise in majority of web languages and frameworks and thirsty to learn new technology.
-I feel pretty happy when my clients get impressed my work and recommend me.
+Highly skilled Backend Developer with 8 years of experience in developing dynamic and interactive web
+applications. Proficient in various Java Spring Boot frameworks and libraries, with a strong understanding of
+backend-end technologies. Experience as a team leader and software architect. Seeking to leverage
+expertise in web and dot net development to contribute to innovative projects and teams.
 
 These are my experties I have;
 ⭐ Scrum/XP for Agile development, SaaS and DevOps
@@ -14,13 +15,14 @@ These are my experties I have;
 ⭐ Mongo, MySQL, MsSQL, Oracle, PostgreSQL, Kafka, Redis
 ⭐ SEO, Google analytic
 ⭐ AWS EC2, Amplify, S3 Cloud
-⭐ C/C++, C#, VB.NET, Java, Python.
+⭐ C/C++/C#, C#, VB.NET, Java, Python.
 ⭐ Qt, WPF, WCF, Java Swing, JavaFX
 ⭐ PyQt
 ⭐ Android with Java,
 ⭐ GOFF design patterns including MVC, MVVM, MVP
 
 My recent works are as following;
+- https://lobbys.io
 - https://www.myviralad.com
 - https://www.iownz.com
 - https://www.ifnotthen.com
@@ -31,4 +33,4 @@ My recent works are as following;
 
 I'd like to get opporturnity to work for you on this platform.
 Thanks in advance!
-Mousul Thomas
+Mosul Thomas
