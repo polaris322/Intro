@@ -31,6 +31,6 @@ My recent works are as following;
 - https://koyap.com
 - https://portal.yoko.us
 
-I'd like to get opporturnity to work for you on this platform.
+I'd like to get a chance to work for you on this platform.
 Thanks in advance!
 Mosul Thomas
