@@ -1,7 +1,10 @@
-Highly skilled Backend Developer with 8 years of experience in developing dynamic and interactive web
-applications. Proficient in various Java Spring Boot frameworks and libraries, with a strong understanding of
-backend-end technologies. Experience as a team leader and software architect. Seeking to leverage
-expertise in web and dot net development to contribute to innovative projects and teams.
+I'm a seasoned senior full-stack web developer with a passion for crafting exceptional digital experiences.
+With my hands-on experience in the field, I bring a wealth of expertise in both front-end and
+back-end development to the table.
+Throughout my career, I've had the opportunity to work on a diverse range of projects, from small-scale
+startups to large enterprise-level applications. My proficiency spans across a variety of technologies and
+frameworks including but not limited to HTML5, CSS3, JavaScript (ES6+), React, Vue, Node, Express, Python,
+Django, Flask, Spring Boot, Laravel, ASP.NET MVC, and SQL/NoSQL databases.
 
 These are my experties I have;
 ⭐ Scrum/XP for Agile development, SaaS and DevOps
