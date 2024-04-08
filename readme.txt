@@ -36,4 +36,4 @@ My recent works are as following;
 
 I'd like to get a chance to work for you on this platform.
 Thanks in advance!
-Mosul Thomas
+Thomas Chan
